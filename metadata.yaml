@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '41277'
     url: http://www.gutenberg.org/2009/agents/41277
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41639#Reminiscences-of-Travel-in-Australia-America-and-Egypt
 gutenberg_issued: '2012-12-16'
 gutenberg_type: Text
 identifiers:
